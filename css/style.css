@@ -398,6 +398,18 @@ img {
     margin-top: -1rem;
     
 }
+.about .p  p strong{
+    font-size: 1.7rem;
+    text-transform : none;
+    color:black;
+    margin: 0 auto;
+    padding:.6rem 0;
+    padding-top: 1rem;
+    line-height: 1.5;
+    text-align: center;
+    margin-top: -1rem;
+    
+}
 
 .about .row .content p{
     font-size: 1.7rem;
